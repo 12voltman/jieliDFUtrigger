@@ -4062,7 +4062,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C399939"
+		(property "LCSC" "C2927282"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7353,7 +7353,7 @@
 		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
 		(tags "net tie solder jumper bridged")
 		(property "Reference" "JP2"
-			(at 0 1.8 360)
+			(at 0 1.8 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "b7610529-57df-4b87-9147-0068ee5c46af")
@@ -7366,7 +7366,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Bridged"
-			(at 0 -1.9 360)
+			(at 0 -1.9 0)
 			(layer "B.Fab")
 			(uuid "e1247d4a-0284-4671-856e-37780a708ec3")
 			(effects
